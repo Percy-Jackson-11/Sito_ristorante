@@ -111,9 +111,9 @@
         <iframe class="struttura_mappa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2828.09224898848!2d11.770965476241225!3d44.86041677107042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477e5b163f8ad4a1%3A0x4e2ea74a8f04d7a1!2sCavalier%20Uliva!5e0!3m2!1sit!2sit!4v1699439908272!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <div class="where">
           <ul>
-            <li>nome via</li>
-            <li>provincia</li>
-            <li>altro</li>
+            <li>Via S. Marco</li>
+            <li>Fossalta</li>
+            <li>Ferrara</li>
           </ul>
         </div>
       </div>
