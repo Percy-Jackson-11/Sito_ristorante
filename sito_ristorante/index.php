@@ -161,7 +161,7 @@
             <input type="date" name="data" required>
             <input type="time" name="ora"  required>
           </div>
-            <input type="submit" name="submit" value="prenota">
+            <input type="submit" id="invio" name="submit" value="prenota">
         </form>
     </div>
     

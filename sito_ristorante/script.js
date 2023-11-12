@@ -147,3 +147,7 @@ function mostraBottone() {
     terzo_piatto.textContent = "Tiramisù";
     img.src = "img/dolce.png";
   })
+
+  document.querySelector("#invio").addEventListener("click", () => {
+    alert("Email inviata con successo! Potrebbero occorere alcuni minuti al suo arrivo.");
+  })

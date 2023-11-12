@@ -12,12 +12,13 @@
     $mail  = $_POST['mail'];
     $numero = $_POST['numero'];
     $data = $_POST['data'];
+    $ora = $_POST['ore'];
     $headers = "From: cavalieruliva@staff.com";
 
 
     $to = $mail;
     $oggetto = 'Conferma prenotazione';
-    $corpo = 'Buongiorno '. $nome ." ". $cognome. " ,le scriviamo per confermare la sua prenotazione per il giorno ".$data. " da noi al Cavalier Uliva. Impazienti di ospitarla le auguriamo una buona serata."; 
+    $corpo = 'Buongiorno '. $nome ." ". $cognome. " ,le scriviamo per confermare la sua prenotazione per il giorno ".$data." alle ore: ". $ora. " da noi al Cavalier Uliva. Impazienti di ospitarla le auguriamo una buona serata."; 
 
     $tavoli [$numero] -= 1 ;
 
